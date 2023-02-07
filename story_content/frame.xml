@@ -49,7 +49,7 @@
       </optiongroup>
       <optiongroup name="menuoptions">
         <options>
-          <option name="flow" value="free" />
+          <option name="flow" value="restricted" />
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
@@ -1603,24 +1603,24 @@
         <slidelink slideid="_player.6TSEQFVICoW" displaytext="Creating sentences with active voice." expand="true" type="slide">
           <links>
             <slidelink slideid="_player.6TSEQFVICoW.6Lp4VrYVRhy" displaytext="Objective 3" expand="false" type="slide" />
-            <slidelink slideid="_player.6TSEQFVICoW.6rW9cHSed5K" displaytext="Time to practice" expand="false" type="slide" />
-            <slidelink slideid="_player.6TSEQFVICoW.5yJqyroNMst" displaytext="Breaking it Down with an Example" expand="false" type="slide" />
-            <slidelink slideid="_player.6TSEQFVICoW.5kS3bW3ZeJI" displaytext="Breaking it Down" expand="false" type="slide" />
-            <slidelink slideid="_player.6TSEQFVICoW.64ouHbykzxz" displaytext="Summary" expand="false" type="slide" />
             <slidelink slideid="_player.6TSEQFVICoW.6YcH77WfQpw" displaytext="Defining Active Voice" expand="false" type="slide" />
             <slidelink slideid="_player.6TSEQFVICoW.6pBlEo4jEGt" displaytext="Parts of an Active Sentence" expand="false" type="slide" />
             <slidelink slideid="_player.6TSEQFVICoW.5pRqwGtDsCG" displaytext="Demonstration" expand="false" type="slide" />
             <slidelink slideid="_player.6TSEQFVICoW.64409b7uuPP" displaytext="Check for Understanding" expand="false" type="slide" />
+            <slidelink slideid="_player.6TSEQFVICoW.5kS3bW3ZeJI" displaytext="Breaking it Down" expand="false" type="slide" />
+            <slidelink slideid="_player.6TSEQFVICoW.5yJqyroNMst" displaytext="Breaking it Down with an Example" expand="false" type="slide" />
+            <slidelink slideid="_player.6TSEQFVICoW.64ouHbykzxz" displaytext="Summary" expand="false" type="slide" />
+            <slidelink slideid="_player.6TSEQFVICoW.6rW9cHSed5K" displaytext="Time to practice" expand="false" type="slide" />
           </links>
         </slidelink>
         <slidelink slideid="_player.6obMDuo2R1D" displaytext="Creating Active Sentences" expand="true" type="slide">
           <links>
+            <slidelink slideid="_player.6obMDuo2R1D.6DiS0gj9p16" displaytext="Instructions" expand="false" type="slide" />
             <slidelink slideid="_player.6obMDuo2R1D.5lRlMw4wQ5W" displaytext="Question 1" expand="false" type="slide" />
             <slidelink slideid="_player.6obMDuo2R1D.6NkNczosmnP" displaytext="Question 2" expand="false" type="slide" />
             <slidelink slideid="_player.6obMDuo2R1D.5hC7R2Onr29" displaytext="Question 3" expand="false" type="slide" />
             <slidelink slideid="_player.6obMDuo2R1D.6TISy4hNj10" displaytext="Question 4" expand="false" type="slide" />
             <slidelink slideid="_player.6obMDuo2R1D.6di83tyjh9f" displaytext="Question 5" expand="false" type="slide" />
-            <slidelink slideid="_player.6obMDuo2R1D.6DiS0gj9p16" displaytext="Instructions" expand="false" type="slide" />
             <slidelink slideid="_player.6obMDuo2R1D.6p6rMUaqotW" displaytext="End" expand="false" type="slide" />
           </links>
         </slidelink>
